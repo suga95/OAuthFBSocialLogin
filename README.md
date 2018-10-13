@@ -3,6 +3,7 @@
 ## install
 
 do 
+---
 1.Download the files from respective guthub link into a working directry.
 
 2.Type "npm install" in thw working directry terminal in order to install respective node modules.
